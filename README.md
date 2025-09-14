@@ -9,11 +9,11 @@ Program conditional statement yang menerapkan konsep CRUD dalam melakukan pengol
 Menerapkan konsep create untuk menambahkan data
 ![alt text](https://github.com/pipprualgy/Mekanisme-Pendataan-KTA/blob/main/Output%201%20create.png?raw=true)
 
-#Output 2
+# Output 2
 Konsep Update untuk mengubah data
 ![alt text](https://github.com/pipprualgy/Mekanisme-Pendataan-KTA/blob/main/Output%202%20update.png?raw=true)
 
-#Output 3
+# Output 3
 Konsep read untuk menampilkan data yang telah ditambahkan
 ![alt text](https://github.com/pipprualgy/Mekanisme-Pendataan-KTA/blob/main/Output%203%20read.png?raw=true)
 
